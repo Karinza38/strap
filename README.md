@@ -1,4 +1,4 @@
-# 👢 Strap
+ # 👢 Strap
 
 A script to bootstrap a minimal macOS development system with the minimal set of settings and software every macOS developer will want.
 
